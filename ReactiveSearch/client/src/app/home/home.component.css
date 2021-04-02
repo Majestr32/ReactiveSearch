@@ -1,0 +1,23 @@
+.reactive-search-box {
+  outline: none;
+  background-image: url(https://cdn2.iconfinder.com/data/icons/ios-7-icons/50/search-512.png);
+  background-size: 45px;
+  background-repeat: no-repeat;
+  background-position-x: 99%;
+  border-radius: 24px;
+  border-color: black;
+  border-width: 4px;
+  width: 80%;
+  height: 55px;
+  padding: 10px;
+  padding-right: 35px;
+}
+
+.container-center {
+  text-align: center;
+  margin-top: 20%;
+}
+
+.Title {
+    font-size: 70px;
+}

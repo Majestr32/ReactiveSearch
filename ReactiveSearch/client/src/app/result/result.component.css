@@ -1,0 +1,38 @@
+.reactive-search-box {
+  outline: none;
+  background-image: url(https://cdn2.iconfinder.com/data/icons/ios-7-icons/50/search-512.png);
+  background-size: 35px;
+  background-repeat: no-repeat;
+  background-position-x: 99%;
+  border-radius: 24px;
+  border-color: black;
+  border-width: 4px;
+  width: 80%;
+  height: 45px;
+  padding: 10px;
+  padding-right: 35px;
+}
+.left-container {
+  text-align: center;
+  width: 30%;
+  float: left;
+  border-right: 1px solid rgba(0,0,0,.1);
+}
+.right-container {
+  width: 70%;
+  text-align: center;
+  float: right;
+}
+.search-element{
+    margin: 20px 0px;
+}
+.tittle-data:hover{
+    background-color: rgba(84, 84, 83, 0.25);
+    cursor:pointer;
+}
+.highest-priority {
+  background-image: url(https://static4.depositphotos.com/1026550/376/i/600/depositphotos_3763236-stock-photo-gold-star.jpg);
+  background-position-x: right;
+  background-size: 20px;
+  background-repeat: no-repeat;
+}
