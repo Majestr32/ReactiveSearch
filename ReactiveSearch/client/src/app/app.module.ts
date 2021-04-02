@@ -10,13 +10,15 @@ import { HomeComponent } from './home/home.component';
 import { NavComponent } from './nav/nav.component';
 import { ResultComponent } from './result/result.component';
 import { BsDropdownModule } from 'ngx-bootstrap/dropdown';
+import { Home2Component } from './home2/home2.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HomeComponent,
     NavComponent,
-    ResultComponent
+    ResultComponent,
+    Home2Component
   ],
   imports: [
     BrowserModule,

@@ -35,7 +35,11 @@
               "./node_modules/ngx-bootstrap/datepicker/bs-datepicker.css",
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "./node_modules/jquery/dist/jquery.min.js",
+              "./node_modules/bootstrap/dist/js/bootstrap.js",
+              "src/assets/js/home2.js"
+            ]
           },
           "configurations": {
             "production": {

@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { DesignService } from '../_services/design.service';
 
 @Component({
   selector: 'app-nav',
@@ -7,9 +8,21 @@ import { Component, OnInit } from '@angular/core';
 })
 export class NavComponent implements OnInit {
 
-  constructor() { }
-
+  constructor(private design: DesignService) { }
+  
   ngOnInit(): void {
+
+  }
+  goHome() {
+    this.design.goHome();
+  }
+  changeHome1() {
+    this.design.changeHome('default');
+    this.design.goHome();
+  }
+  changeHome2() {
+    this.design.changeHome('extended');
+    this.design.goHome();
   }
 
 }
