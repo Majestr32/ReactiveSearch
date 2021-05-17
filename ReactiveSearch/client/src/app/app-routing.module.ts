@@ -8,7 +8,8 @@ const routes: Routes = [
   { path: 'home', component: HomeComponent },
   { path: 'home2', component: Home2Component },
   { path: 'result', component: ResultComponent },
-  { path: '**', component: HomeComponent, pathMatch: 'full' },];
+  { path: '**', component: HomeComponent, pathMatch: 'full' },
+];
 
 @NgModule({
   imports: [RouterModule.forRoot(routes)],

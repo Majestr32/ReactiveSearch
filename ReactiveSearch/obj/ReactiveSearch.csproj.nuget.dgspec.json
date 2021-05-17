@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yemets\\source\\repos\\ReactiveSearch\\ReactiveSearch\\ReactiveSearch.csproj": {}
+    "C:\\Users\\Yemets\\source\\repos\\reacSearch\\ReactiveSearch\\ReactiveSearch\\ReactiveSearch.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yemets\\source\\repos\\ReactiveSearch\\ReactiveSearch\\ReactiveSearch.csproj": {
+    "C:\\Users\\Yemets\\source\\repos\\reacSearch\\ReactiveSearch\\ReactiveSearch\\ReactiveSearch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yemets\\source\\repos\\ReactiveSearch\\ReactiveSearch\\ReactiveSearch.csproj",
+        "projectUniqueName": "C:\\Users\\Yemets\\source\\repos\\reacSearch\\ReactiveSearch\\ReactiveSearch\\ReactiveSearch.csproj",
         "projectName": "ReactiveSearch",
-        "projectPath": "C:\\Users\\Yemets\\source\\repos\\ReactiveSearch\\ReactiveSearch\\ReactiveSearch.csproj",
+        "projectPath": "C:\\Users\\Yemets\\source\\repos\\reacSearch\\ReactiveSearch\\ReactiveSearch\\ReactiveSearch.csproj",
         "packagesPath": "C:\\Users\\Yemets\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yemets\\source\\repos\\ReactiveSearch\\ReactiveSearch\\obj\\",
+        "outputPath": "C:\\Users\\Yemets\\source\\repos\\reacSearch\\ReactiveSearch\\ReactiveSearch\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Yemets\\AppData\\Roaming\\NuGet\\NuGet.Config",
